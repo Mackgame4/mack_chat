@@ -29,4 +29,4 @@ https://i.imgur.com/y4LIRlr.png
 ## ☁️ Download:  
 (Here)[https://github.com/Mackgame4/mack_chat] or Github (https://github.com/Mackgame4/mack_chat)  
 Join our Discord or in (https://discord.io/mack)  
-#### Creators: Mackgame4  
+#### Creators: Mackgame4 and nopixel chat aka np_chat creator
