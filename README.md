@@ -1,4 +1,4 @@
-# mack_chat aka MG_chat
+# mack_chat
 
 ## 🔒 Requirements:  
 - es_extended [https://github.com/esx-framework/es_extended]  
