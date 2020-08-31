@@ -21,6 +21,7 @@ ensure chat
 Just start your server and have fun
 
 ## 📷 Screenshots
+https://i.imgur.com/y4LIRlr.png
 
 ## 🔖 Attention:
 #### Never start mack_chat before es_extended or esx_identity and rename the "mack_chat" resource to "chat"
